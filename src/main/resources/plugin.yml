@@ -1,0 +1,9 @@
+name: BroadcastSave
+main: net.iceblaze.BroadcastSave.BroadcastSave
+author: FrostTaco
+version: 1.0.0
+api-version: 1.13
+permissions:
+  broadcastsave.see:
+    default: op
+    description: Allows the player to see announcements for world saves.
